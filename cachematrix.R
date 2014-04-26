@@ -1,5 +1,4 @@
-## This Assignment calculates the Inverse of Matrix or If already calculated once, will retrieve it from Cache Memory
-
+## To Calculate Inverse of Matrix using Cache Memory Concept
 
 ## This will create the special Matrix with returning the following list of fucntions
 ## Set the Matrix
